@@ -68,10 +68,10 @@ int main(){
             close(P[i].tube[1]);
             int lenght = read(P[i].tube[2], buffer, sizeof(buffer));
             close(P[i].tube[2]);
-            wait(NULL); /*rjbrfhjbe*/
+            wait(NULL); /*uzygfuyvrez*/
         }
 
-    }
+    }/*eibgfbafifu"f*/
 
     return 0;
 
