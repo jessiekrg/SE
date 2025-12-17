@@ -71,7 +71,7 @@ int main(){
             wait(NULL); /*uzygfuyvrez*/
         }
 
-    }/*eibgfbafifu"f*/
+    }/*sd"f*/
 
     return 0;
 
